@@ -1,1 +1,1 @@
-# Image-Detection-In-Data-Science-master
+# Image-Classification
